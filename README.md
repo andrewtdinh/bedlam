@@ -7,6 +7,6 @@
 [![Lab](https://img.shields.io/badge/Lab-5.8.0-blue.svg)](https://github.com/hapijs/lab)
 
 [![Build Status](https://travis-ci.org/andrewtdinh/bedlam.svg)](https://travis-ci.org/andrewtdinh/bedlam)
-[![Coverage Status](https://coveralls.io/repos/andrewtdinh/bedlam/badge.svg)](https://coveralls.io/r/andrewtdinh/bedlam)
+[![Coverage Status](https://coveralls.io/repos/andrewtdinh/bedlam/badge.svg?branch=master)](https://coveralls.io/r/andrewtdinh/bedlam?branch=master)
 
 
