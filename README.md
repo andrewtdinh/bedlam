@@ -5,3 +5,7 @@
 [![Chai](https://img.shields.io/badge/Chai-2.3.0-yellowgreen.svg)](http://chaijs.com/)
 [![Sinon](https://img.shields.io/badge/Sinon-1.14.1-green.svg)](http://sinonjs.org/)
 [![Lab](https://img.shields.io/badge/Lab-5.8.0-blue.svg)](https://github.com/hapijs/lab)
+
+[![Coverage Status](https://coveralls.io/repos/andrewtdinh/bedlam/badge.svg)](https://coveralls.io/r/andrewtdinh/bedlam)
+
+
